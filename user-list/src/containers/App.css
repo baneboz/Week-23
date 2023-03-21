@@ -1,0 +1,6 @@
+.app__header,
+.app__footer {
+  background-color: maroon;
+  color: white;
+  padding-block: 2em;
+}
